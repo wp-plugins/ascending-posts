@@ -34,8 +34,8 @@ Yes!
 
 == Screenshots ==
 
-1. Ascending/Descending option in category configuration screen
-2. Blog post ascending order by date
+1. The Ascending/Descending option in the category configuration page
+2. The plugin in action
 
 == Changelog ==
 
