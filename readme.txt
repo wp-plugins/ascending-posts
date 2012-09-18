@@ -1,0 +1,63 @@
+=== Ascending Posts by FlyPlugins===
+Contributors: flyplugins
+Donate link: http://flyplugins.com/donate
+Tags: fly plugins,ascending,posts,descending,date,ascending posts,descending posts,order posts ascending,order posts descending,flyplugins
+Requires at least: 3.0
+Tested up to: 3.4.2
+Stable tag: 1.3
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+This plugin adds a feature to a post category to allow the posts in that particular category to be displayed in ascending or descending order by date.
+
+== Description ==
+= [FlyPlugins](http://flyplugins.com) = presents Ascending Posts Plugin
+
+= Have you ever wanted to shift the order of your posts to ascending by date opposed to descending? =
+This plugin adds a feature to a post category to allow the posts in that particular category to be displayed in ascending or descending order by date.
+
+When you go to edit your category, you will have 2 options:
+
+* Ascending
+* Descending
+
+This will automatically display posts on that category page ascending/descending based on your specification.
+
+Visit [FlyPlugins Support](http://flyplugins.com/support/) for known issues, fixes and helps.
+
+= Check out FlyPlugins =
+For more info about FlyPlugins Free and Premium Plugins, check out the following links:
+
+* The [Ascending Posts Plugin](http://flyplugins.com/ascending-posts-plugin/) official homepage.
+* [WP Courseware](http://flyplugins.com/wp-courseware-premium-wordpress-plugin/) - The latest Premium Plugin released by FlyPlugins.
+* Other [WordPress Plugins](http://flyplugins.com/products/) by FlyPlugins.
+* Follow FlyPlugins on [Facebook](http://flyplugins.com/facebook) & [YouTube](http://www.youtube.com/flyplugins).
+
+== Installation ==
+
+1. Upload the `ascending-posts` folder into the `/wp-content/plugins/` directory
+1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Configure the plugin by going into Posts-->Categories, then click a category in which you would like to modify the post order, then select Ascending or Descending.
+
+== Frequently asked questions ==
+
+= Does this plugin sort both ascending and descending =
+
+Yes!
+
+== Screenshots ==
+
+1. The Ascending/Descending option in the category configuration page
+2. The plugin in action
+
+== Changelog ==
+
+= 1.3 =
+* Fixed bug with going to page 2 or "older posts" link at the bottom of category archive page.
+
+= 1.2 =
+* Initial release
+
+
+== Upgrade notice ==
+
