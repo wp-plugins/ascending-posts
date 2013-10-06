@@ -4,7 +4,7 @@ Donate link: http://flyplugins.com/donate
 Tags: fly plugins,ascending,posts,descending,date,ascending posts,descending posts,order posts ascending,order posts descending,flyplugins
 Requires at least: 3.0
 Tested up to: 3.4.2
-Stable tag: 1.3
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -51,6 +51,9 @@ Yes!
 2. The plugin in action
 
 == Changelog ==
+
+= 1.4 =
+* Updated the resources page.
 
 = 1.3 =
 * Fixed bug with going to page 2 or "older posts" link at the bottom of category archive page.

@@ -32,18 +32,6 @@ if (!class_exists('Fly_Plugin_Admin')) {
 		<?php
 			$this->toc .= '<li><a href="#'.$id.'">'.$title.'</a></li>';
 		}	
-		
-		/**
-		 * Support box
-		 */
-		function plugin_support($hook = '') {
-			if (empty($hook)) {
-				$hook = $this->hook;
-			}
-			$content = '<p>'.__("If you're in need of support with any Fly Plugin, please visit the <a href='http://www.flyplugins.com/support/'>Fly Plugin Support Page</a>.", 'fly').'</p>';
-			$this->postbox($this->hook.'support', __('Need Fly Plugin Support?','fly'), $content);
-		}
-
 
 		/**
 		 * Box with latest news from flyplugins.com for sidebar
@@ -64,9 +52,9 @@ if (!class_exists('Fly_Plugin_Admin')) {
 			    }
 			}						
 			$content .= '<li class="facebook"><a href="http://flyplugins.com/facebook">'.__( 'Like Fly Plugins on Facebook', 'fly' ).'</a></li>';
-			$content .= '<li class="twitter"><a href="http://flyplugins.com/twitter">'.__( 'Follow Fly Plugins on Twitter', 'fly' ).'</a></li>';
+			//$content .= '<li class="twitter"><a href="http://flyplugins.com/twitter">'.__( 'Follow Fly Plugins on Twitter', 'fly' ).'</a></li>';
 			$content .= '<li class="youtube"><a href="http://flyplugins.com/youtube">'.__( 'Watch Fly Plugins on YouTube', 'fly' ).'</a></li>';
-			$content .= '<li class="googleplus"><a href="http://flyplugins.com/Google-Plus">'.__( 'Circle Fly Plugins on Google+', 'fly' ).'</a></li>';
+			//$content .= '<li class="googleplus"><a href="http://flyplugins.com/Google-Plus">'.__( 'Circle Fly Plugins on Google+', 'fly' ).'</a></li>';
 			$content .= '<li class="rss"><a href="http://feeds.feedburner.com/FlyPlugins">'.__( 'Subscribe with RSS', 'fly' ).'</a></li>';
 			$content .= '<li class="email"><a href="http://feedburner.google.com/fb/a/mailverify?uri=FlyPlugins&amp;loc=en_US">'.__( 'Subscribe by email', 'fly' ).'</a></li>';
 			$content .= '</ul>';
