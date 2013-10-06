@@ -23,15 +23,15 @@ When you go to edit your category, you will have 2 options:
 
 This will automatically display posts on that category page ascending/descending based on your specification.
 
-Visit [FlyPlugins Support](http://flyplugins.com/support/) for known issues, fixes and helps.
-
 = Check out FlyPlugins =
 For more info about FlyPlugins Free and Premium Plugins, check out the following links:
 
-* The [Ascending Posts Plugin](http://flyplugins.com/ascending-posts-plugin/) official homepage.
-* [WP Courseware](http://flyplugins.com/wp-courseware-premium-wordpress-plugin/) - The latest Premium Plugin released by FlyPlugins.
-* Other [WordPress Plugins](http://flyplugins.com/products/) by FlyPlugins.
-* Follow FlyPlugins on [Facebook](http://flyplugins.com/facebook) & [YouTube](http://www.youtube.com/flyplugins).
+* [WP Courseware LMS plugin for WordPress](http://flyplugins.com/wp-courseware-premium-wordpress-plugin/) - The best LMS online for WordPress.
+* [S3 Media Maestro](http://www.s3mediamaestro.com/) - The best HTML 5 secure media player for WordPress that works hand in hand with Amazon S3.
+* Other [Fly PluginsWordPress Plugins](http://flyplugins.com) by Fly Plugins.
+* Follow Fly Plugins on [Facebook](http://flyplugins.com/facebook) 
+* Check out the Fly Plugins [YouTube](http://www.youtube.com/flyplugins) channel.
+* See documentation on our [Codex](http://flyplugins.com/codex) site.
 
 == Installation ==
 
