@@ -3,7 +3,7 @@ Contributors: flyplugins
 Donate link: http://flyplugins.com/donate
 Tags: fly plugins,ascending,posts,descending,date,ascending posts,descending posts,order posts ascending,order posts descending,flyplugins
 Requires at least: 3.0
-Tested up to: 3.4.2
+Tested up to: 3.6.1
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
