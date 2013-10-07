@@ -3,7 +3,7 @@
    Plugin Name: Ascending Posts Plugin
    Plugin URI: http://www.flyplugins.com
    Description: This plugin adds a feature to a post category to allow the posts in that particular category to be displayed in ascending or descending order by date.
-   Version: 1.3
+   Version: 1.4
    Author: Fly Plugins
    Author URI: http://www.flyplugins.com
    License: GPL2
