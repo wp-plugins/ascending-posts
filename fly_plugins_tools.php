@@ -2,7 +2,7 @@
 
 /**
  * Backend Class for use in all Free Fly plugins
- * Version 1.0
+ * Version 1.4
  */
  
  	/**
