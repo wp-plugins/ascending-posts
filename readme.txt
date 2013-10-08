@@ -4,7 +4,7 @@ Donate link: http://flyplugins.com/donate
 Tags: fly plugins,ascending,posts,descending,date,ascending posts,descending posts,order posts ascending,order posts descending,flyplugins
 Requires at least: 3.0
 Tested up to: 3.6.1
-Stable tag: 1.4
+Stable tag: 1.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -51,6 +51,9 @@ Yes!
 2. The plugin in action
 
 == Changelog ==
+
+= 1.5 =
+* Updated the resources page, adding back the latest news metabox.
 
 = 1.4 =
 * Updated the resources page.
